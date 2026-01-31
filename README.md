@@ -1,6 +1,6 @@
 # sample-mall
 
-轻量级商城后端服务 - Python Flask 版本
+轻量级商城后端服务 - Python Flask 版本 
 
 ## 项目特性
 
