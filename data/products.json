@@ -1,0 +1,122 @@
+[
+  {
+    "name": "苹果 iPhone 15 Pro Max 256GB",
+    "sku": "PHONE-IP15-PM-256",
+    "stock": 45,
+    "price": 899900
+  },
+  {
+    "name": "华为 Mate 60 Pro 512GB",
+    "sku": "PHONE-HW-M60-512",
+    "stock": 38,
+    "price": 699900
+  },
+  {
+    "name": "小米14 Ultra 16GB+512GB",
+    "sku": "PHONE-MI-14U-512",
+    "stock": 52,
+    "price": 599900
+  },
+  {
+    "name": "荣耀 Magic6 Pro",
+    "sku": "PHONE-HN-M6P",
+    "stock": 33,
+    "price": 799900
+  },
+  {
+    "name": "OPPO Find X7 Pro",
+    "sku": "PHONE-OP-X7P",
+    "stock": 41,
+    "price": 549900
+  },
+  {
+    "name": "vivo X100 Pro 5G",
+    "sku": "PHONE-VV-X100P",
+    "stock": 47,
+    "price": 499900
+  },
+  {
+    "name": "苹果 MacBook Pro 14英寸 M3",
+    "sku": "LAPTOP-MB-P14-M3",
+    "stock": 25,
+    "price": 1499900
+  },
+  {
+    "name": "联想 ThinkPad X1 Carbon",
+    "sku": "LAPTOP-LN-X1C",
+    "stock": 31,
+    "price": 999900
+  },
+  {
+    "name": "戴尔 XPS 15 9530",
+    "sku": "LAPTOP-DL-XPS15",
+    "stock": 28,
+    "price": 1199900
+  },
+  {
+    "name": "华为 MateBook X Pro",
+    "sku": "LAPTOP-HW-MBX",
+    "stock": 35,
+    "price": 899900
+  },
+  {
+    "name": "iPad Pro 12.9英寸 256GB",
+    "sku": "TABLET-IPAD-P129",
+    "stock": 42,
+    "price": 799900
+  },
+  {
+    "name": "格力空调 1.5匹变频",
+    "sku": "AC-GL-15VF",
+    "stock": 68,
+    "price": 329900
+  },
+  {
+    "name": "海尔冰箱 十字对开门 500L",
+    "sku": "FRIDGE-HR-500",
+    "stock": 23,
+    "price": 459900
+  },
+  {
+    "name": "小米洗衣机 10kg 滚筒",
+    "sku": "WASH-MI-10KG",
+    "stock": 37,
+    "price": 199900
+  },
+  {
+    "name": "4K电视 65英寸",
+    "sku": "TV-65-4K",
+    "stock": 19,
+    "price": 649900
+  },
+  {
+    "name": "耐克 Air Max 270 运动鞋",
+    "sku": "SHOE-NK-AM270",
+    "stock": 156,
+    "price": 89900
+  },
+  {
+    "name": "波司登羽绒服 加厚款",
+    "sku": "CLOTH-BSD-DOWN",
+    "stock": 88,
+    "price": 159900
+  },
+  {
+    "name": "新秀丽拉杆箱 20寸",
+    "sku": "BAG-SMS-20",
+    "stock": 73,
+    "price": 79900
+  },
+  {
+    "name": "三只松鼠坚果大礼包",
+    "sku": "FOOD-SZS-NUTS",
+    "stock": 512,
+    "price": 12900
+  },
+  {
+    "name": "农夫山泉饮用水 550ml*24瓶",
+    "sku": "DRINK-NFSC-24",
+    "stock": 888,
+    "price": 4900
+  }
+]

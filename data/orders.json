@@ -1,0 +1,102 @@
+[
+  {
+    "orderSn": "ORD-20260115-001",
+    "productIds": [1],
+    "totalAmount": 899900
+  },
+  {
+    "orderSn": "ORD-20260115-002",
+    "productIds": [2, 3],
+    "totalAmount": 1299800
+  },
+  {
+    "orderSn": "ORD-20260116-003",
+    "productIds": [7, 11],
+    "totalAmount": 2299800
+  },
+  {
+    "orderSn": "ORD-20260117-004",
+    "productIds": [12],
+    "totalAmount": 329900
+  },
+  {
+    "orderSn": "ORD-20260118-005",
+    "productIds": [16, 17],
+    "totalAmount": 249800
+  },
+  {
+    "orderSn": "ORD-20260119-006",
+    "productIds": [19, 20],
+    "totalAmount": 17800
+  },
+  {
+    "orderSn": "ORD-20260120-007",
+    "productIds": [4, 5],
+    "totalAmount": 1349800
+  },
+  {
+    "orderSn": "ORD-20260121-008",
+    "productIds": [8],
+    "totalAmount": 999900
+  },
+  {
+    "orderSn": "ORD-20260122-009",
+    "productIds": [13, 14],
+    "totalAmount": 659800
+  },
+  {
+    "orderSn": "ORD-20260123-010",
+    "productIds": [6],
+    "totalAmount": 499900
+  },
+  {
+    "orderSn": "ORD-20260124-011",
+    "productIds": [9, 10],
+    "totalAmount": 2099800
+  },
+  {
+    "orderSn": "ORD-20260125-012",
+    "productIds": [15],
+    "totalAmount": 649900
+  },
+  {
+    "orderSn": "ORD-20260126-013",
+    "productIds": [1, 11],
+    "totalAmount": 1699800
+  },
+  {
+    "orderSn": "ORD-20260127-014",
+    "productIds": [18],
+    "totalAmount": 79900
+  },
+  {
+    "orderSn": "ORD-20260128-015",
+    "productIds": [3, 6, 16],
+    "totalAmount": 1189700
+  },
+  {
+    "orderSn": "ORD-20260129-016",
+    "productIds": [12, 14],
+    "totalAmount": 529800
+  },
+  {
+    "orderSn": "ORD-20260130-017",
+    "productIds": [2],
+    "totalAmount": 699900
+  },
+  {
+    "orderSn": "ORD-20260130-018",
+    "productIds": [19, 20, 20],
+    "totalAmount": 22700
+  },
+  {
+    "orderSn": "ORD-20260131-019",
+    "productIds": [7, 8, 9],
+    "totalAmount": 3699700
+  },
+  {
+    "orderSn": "ORD-20260131-020",
+    "productIds": [5, 17],
+    "totalAmount": 709800
+  }
+]
